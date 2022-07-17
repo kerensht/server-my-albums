@@ -1,3 +1,4 @@
 node_modules
 config
 dev.env
+package-lock.json
